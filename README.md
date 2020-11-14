@@ -9,7 +9,7 @@ Built hourly, daily and monthly models after chaning it to a ts() data sequence.
 * Applied Model Diagnostic techniques such as: Residual Analysis, Ljung Box test, ACF ofresiduals, backtesting, BIC , MAPE and RMSE - to test model performance. 
 * **Forecasting:** Finally, performed forecasting trend analysis on the best performing model. 
 
-![](/Picture1.png "Forecast Plot")
+![](master/Picture1.png "Forecast Plot")
 
 ![](https://github.com/ChitraPirthyani/DataNerd/blob/master/Picture2.png)
 
@@ -21,4 +21,4 @@ Built hourly, daily and monthly models after chaning it to a ts() data sequence.
 
 ![](https://github.com/ChitraPirthyani/DataNerd/blob/master/Picture3.png)
 
-![](https://github.com/ChitraPirthyani/DataNerd/blob/master/Picture4.png)
+![](https://github.com/ChitraPirthyani/DataNerd/blob/master/picture4.png)
