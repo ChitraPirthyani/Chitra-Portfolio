@@ -22,3 +22,14 @@ Built hourly, daily and monthly models after chaning it to a ts() data sequence.
 ![](https://github.com/ChitraPirthyani/DataNerd/blob/master/Picture3.png)
 
 ![](https://github.com/ChitraPirthyani/DataNerd/blob/master/picture4.png)
+
+# [Project 3: Twitter API](https://github.com/ChitraPirthyani/DataNerd/blob/master/TwitterAPI.py)
+* Accessed Twitter API to pull specific tweets with specific hashtags and keywords.
+* Converted these tweets to a pandas dataframe and transported it to a csv file. 
+
+# [Project 4: Advanced Machine Learning on Breast Cancer Data](https://github.com/ChitraPirthyani/DataNerd/blob/master/Advanced%20Machine%20Learning%20-%201.ipynb)
+* **Data Pre-processing:** Data cleaning and train-test splits.
+* **Classification Models:** 1. Random Forest Classification
+                             2. Gradient Boosting Classification
+                             3. GridSearch CV Model
+* **Metric Analysis :** Compared all classification models using the following metrics : ROC Curves, Precision Recall Curves, Confusion Matrix, Accuracy Scores
