@@ -1,7 +1,7 @@
-# Chitra_Pirthyani-Portfolio
-A Data Science Portfolio
+# Hi! I am **_Chitra Pirthyani_**.
+Welcome to my Data Science Portfolio.
 
-# [Project 1: Time-series Forecasting of ComEd Energy Consumption Data](https://github.com/ChitraPirthyani/DataNerd/blob/master/Time%20series%20Analysis-%20ComEd.R)
+# [Project 1: Time-Series Forecasting of ComEd Energy Consumption Data](https://github.com/ChitraPirthyani/DataNerd/blob/master/Time%20series%20Analysis-%20ComEd.R)
 * **Data Pre-processing:** Cleaned ComEd Consumption dataset and checked if it was stationary, normal and seasonal.
 Built hourly, daily and monthly models after chaning it to a ts() data sequence.
 * **Exploratory Analysis:** Performed exploratory analysis including histograms, time plots, ACF and PACF plots, ADF tests.
@@ -33,3 +33,4 @@ Built hourly, daily and monthly models after chaning it to a ts() data sequence.
 
 ![](/images/picture5.png)
 
+# [Project 5: 
