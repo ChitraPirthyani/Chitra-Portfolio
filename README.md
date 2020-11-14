@@ -1,5 +1,5 @@
 # Hi! I am **_Chitra Pirthyani_**.
-![](/images/IMG_0466_Original.jpg)
+
 **Check out my work.**
 
 # [Project 1: Time-Series Forecasting of ComEd Energy Consumption Data](https://github.com/ChitraPirthyani/DataNerd/blob/master/Time%20series%20Analysis-%20ComEd.R)
