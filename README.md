@@ -33,4 +33,5 @@ Built hourly, daily and monthly models after chaning it to a ts() data sequence.
                              3. GridSearch CV Model
 * **Metric Analysis :** Compared all classification models using the following metrics : ROC Curves, Precision Recall Curves, Confusion Matrix, Accuracy Scores
 
+![](https://github.com/ChitraPirthyani/DataNerd/blob/master/picture5.png)
 
