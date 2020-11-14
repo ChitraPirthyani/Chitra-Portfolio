@@ -1,4 +1,4 @@
-# Hi! I am **_Chitra Pirthyani_**.
+# Hi! I am **_Chitra_**.
 
 **Check out my work.**
 
@@ -34,4 +34,4 @@ Built hourly, daily and monthly models after chaning it to a ts() data sequence.
 
 ![](/images/picture5.png)
 
-# [Project 5: 
+
