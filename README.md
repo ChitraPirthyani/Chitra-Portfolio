@@ -13,3 +13,8 @@ A Data Science Portfolio
 
 ![](https://github.com/ChitraPirthyani/DataNerd/blob/master/Picture2.png)
 
+# [Project 2: Classification & Regression of Weather Data](https://github.com/ChitraPirthyani/DataNerd/blob/master/DSC441%20Weather%20data%20Decision%20Trees.R)
+* **Data Pre-processing:** Cleaned and pre-processed weather data with 6 million data points to arrive at 2 million data points.
+* **Exploratory Analysis:** Created descriptive plots including corr-plots, box plots and histograms.
+* **Model Building:** Built models based on Simple Linear Regression, Multiple Regression and Classification.
+* Created a Decision Tree to classify when the Sky is Over-cast, vs when is it not. 
