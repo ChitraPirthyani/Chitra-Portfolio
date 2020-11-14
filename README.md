@@ -9,7 +9,7 @@ A Data Science Portfolio
 * Applied Model Diagnostic techniques such as: Residual Analysis, Ljung Box test, ACF ofresiduals, backtesting, BIC , MAPE and RMSE - to test model performance. 
 * Finally, performed forecasting trend analysis on the best performing model. 
 
-![](/images/Picture1.png "Forecast Plot")
+![](https://github.com/ChitraPirthyani/DataNerd/blob/master/Picture1.png "Forecast Plot")
 
-![](/images/Picture2.png)
+![](https://github.com/ChitraPirthyani/DataNerd/blob/master/Picture2.png)
 
