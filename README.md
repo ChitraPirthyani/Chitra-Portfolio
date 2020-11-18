@@ -10,7 +10,7 @@ Built hourly, daily and monthly models after chaning it to a ts() data sequence.
 * Applied Model Diagnostic techniques such as: Residual Analysis, Ljung Box test, ACF ofresiduals, backtesting, BIC , MAPE and RMSE - to test model performance. 
 * **Forecasting:** Finally, performed forecasting trend analysis on the best performing model. 
 
-![](/images/Picture1.png)! [](/images/Picture2.png)
+![](/images/Picture1.png)! 
 
 # [Project 2: Classification & Regression of Weather Data](https://github.com/ChitraPirthyani/DataNerd/blob/master/DSC441%20Weather%20data%20Decision%20Trees.R)
 * **Data Pre-processing:** Cleaned and pre-processed weather data with 6 million data points to arrive at 2 million data points.
@@ -18,7 +18,7 @@ Built hourly, daily and monthly models after chaning it to a ts() data sequence.
 * **Model Building:** Built models based on Simple Linear Regression, Multiple Regression and Classification.
 * **Classification:** Created a Decision Tree and a confusion matirx to classify when the Sky is Over-cast, vs when it is not. 
 
-![](/images/Picture3.png)![](images/picture4.png)
+![](/images/Picture3.png)!
 
 
 # [Project 3: Twitter API](https://github.com/ChitraPirthyani/DataNerd/blob/master/TwitterAPI.py)
