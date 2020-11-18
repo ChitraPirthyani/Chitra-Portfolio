@@ -44,8 +44,9 @@ Built hourly, daily and monthly models after chaning it to a ts() data sequence.
                 5. Interaction model with backward testing
 * **Model Diagnosis:** Measured model performance based on metrics like Co-efficient tests, residual tests, RMSE, R-squared, MAE, QQ-plots. 
 
-![](/images/Screen%20Shot%202020-11-17%20at%209.08.37%20PM.png)
+![](/images/Screen Shot 2020-11-17 at 9.08.37 PM.png)
 
-
+# [Project 6: Classification of Customer Churn](https://github.com/ChitraPirthyani/DataNerd/blob/master/Classification.R)
+* **Description:** 
 
 
