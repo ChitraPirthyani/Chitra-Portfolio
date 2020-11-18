@@ -34,4 +34,18 @@ Built hourly, daily and monthly models after chaning it to a ts() data sequence.
 
 ![](/images/picture5.png)
 
+# [Project 5: Regression Modeling of Avocado Prices in Chicago](https://github.com/ChitraPirthyani/DataNerd/blob/master/Avocado%20-%20v2.R)
+* **Feature Analysis:** Applied correlation analysis between features and did exploratory analysis such as histograms, box plots.
+* **Modeling:** For regression modeling, I created five models: 
+                1. Full model
+                2. Forward and backward testing models
+                3. Stepwise testing models
+                4. Full interaction model
+                5. Interaction model with backward testing
+* **Model Diagnosis:** Measured model performance based on metrics like Co-efficient tests, residual tests, RMSE, R-squared, MAE, QQ-plots. 
+
+![](/images/Screen%20Shot%202020-11-17%20at%209.08.37%20PM.png)
+
+
+
 
