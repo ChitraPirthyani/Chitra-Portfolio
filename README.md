@@ -52,5 +52,11 @@ Built hourly, daily and monthly models after chaning it to a ts() data sequence.
 
 ![](/images/picture7.png)
 
+# [Project 7: Web-scraping and NLP](https://github.com/ChitraPirthyani/DataNerd/blob/master/Flooring_Text.py)
+* **Description:** For this internship project, I created a web scraper to extract header, p-tags and descriptive information from each website on a google-search
+result page. 
+* Performed ETL using :  Beautiful soup, requests, NLTK, pandas, NumPy
+* Generated a data frame that contained URLs from industry-specific google searches, their corresponding meta tags and most
+frequently occurring words and phrases. This data frame was used to improve SEO and keyword optimization for clients. 
 
 
