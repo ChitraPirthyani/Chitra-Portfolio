@@ -44,9 +44,13 @@ Built hourly, daily and monthly models after chaning it to a ts() data sequence.
                 5. Interaction model with backward testing
 * **Model Diagnosis:** Measured model performance based on metrics like Co-efficient tests, residual tests, RMSE, R-squared, MAE, QQ-plots. 
 
-![](/images/Screen Shot 2020-11-17 at 9.08.37 PM.png)
+![](/images/picture7.png)
 
 # [Project 6: Classification of Customer Churn](https://github.com/ChitraPirthyani/DataNerd/blob/master/Classification.R)
-* **Description:** 
+* **Description:** This project aims to determine which variables affect the customer's decision to Churn or Not Churn from a tele-communication service through various classification algorithms.
+* **Modeling:** I built four models: 1. Logistic Regression model, 2. Linear Discriminant Analysis, 3. Principal Component Analysis, 4. Random Forest Classification.
+
+![](/images/picture8.png)
+
 
 
