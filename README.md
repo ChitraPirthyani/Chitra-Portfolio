@@ -28,8 +28,8 @@ Built hourly, daily and monthly models after chaning it to a ts() data sequence.
 # [Project 4: Advanced Machine Learning on Breast Cancer Data](https://github.com/ChitraPirthyani/DataNerd/blob/master/Advanced%20Machine%20Learning%20-%201.ipynb)
 * **Data Pre-processing:** Data cleaning and train-test splits.
 * **Classification Models:** 1. Random Forest Classification
-                             2. Gradient Boosting Classification
-                             3. GridSearch CV Model
+*                            2. Gradient Boosting Classification
+*                            3. GridSearch CV Model
 * **Metric Analysis :** Compared all classification models using the following metrics : ROC Curves, Precision Recall Curves, Confusion Matrix, Accuracy Scores
 
 ![](/images/picture5.png)
